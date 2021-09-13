@@ -31,3 +31,18 @@ build/
 
 ### VS Code ###
 .vscode/
+bin/.gitignore
+bin/mvnw
+bin/mvnw.cmd
+bin/pom.xml
+bin/README.md
+bin/.mvn/wrapper/maven-wrapper.jar
+bin/.mvn/wrapper/maven-wrapper.properties
+bin/.mvn/wrapper/MavenWrapperDownloader.class
+bin/src/main/java/com/todo/todo/TodoApplication.class
+bin/src/main/java/com/todo/todo/controller/CategoriaController.class
+bin/src/main/java/com/todo/todo/model/BasicEntity.class
+bin/src/main/java/com/todo/todo/model/Categoria.class
+bin/src/main/resources/application.properties
+bin/src/test/java/com/todo/todo/TodoApplicationTests.class
+bin/.mvn/wrapper/maven-wrapper.jar
